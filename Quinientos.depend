@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1687759407 source:c:\users\pupi\documents\utn\laboratorio de computacion\juego integrador quinientos\quinientos\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<string>
+	<stdio.h>
+	<unistd.h>
+	<string.h>
+	"Funciones.h"
+	"rlutil.h"
+	"DADOS.h"
+
+1687759658 c:\users\pupi\documents\utn\laboratorio de computacion\juego integrador quinientos\quinientos\funciones.h
+	"rlutil.h"
+	"DADOS.h"
+	"conio.h"
+	"dos.h"
+
+1686273029 c:\users\pupi\documents\utn\laboratorio de computacion\juego integrador quinientos\quinientos\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1687553353 c:\users\pupi\documents\utn\laboratorio de computacion\juego integrador quinientos\quinientos\dados.h
+	"rlutil.h"
+

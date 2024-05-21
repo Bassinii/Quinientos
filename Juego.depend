@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1687667345 source:c:\users\marco\onedrive\escritorio\chuchu\juego\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<string>
+	<stdio.h>
+	<unistd.h>
+	<string.h>
+	"Funciones.h"
+	"rlutil.h"
+	"DADOS.h"
+
+1687718507 c:\users\marco\onedrive\escritorio\chuchu\juego\funciones.h
+	"rlutil.h"
+	"DADOS.h"
+	"conio.h"
+	"dos.h"
+
+1687552117 c:\users\marco\onedrive\escritorio\chuchu\juego\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1687553353 c:\users\marco\onedrive\escritorio\chuchu\juego\dados.h
+	"rlutil.h"
+
+1687760418 source:c:\users\marco\onedrive\escritorio\quinientos\quinientos\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<string>
+	<stdio.h>
+	<unistd.h>
+	<string.h>
+	"Funciones.h"
+	"rlutil.h"
+	"DADOS.h"
+
+1687761108 c:\users\marco\onedrive\escritorio\quinientos\quinientos\funciones.h
+	"rlutil.h"
+	"DADOS.h"
+	"conio.h"
+	"dos.h"
+
+1687760418 c:\users\marco\onedrive\escritorio\quinientos\quinientos\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1687760418 c:\users\marco\onedrive\escritorio\quinientos\quinientos\dados.h
+	"rlutil.h"
+
+1687761136 source:c:\users\bruno\desktop\quinientos\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<string>
+	<stdio.h>
+	<unistd.h>
+	<string.h>
+	"Funciones.h"
+	"rlutil.h"
+	"DADOS.h"
+
+1716253632 c:\users\bruno\desktop\quinientos\funciones.h
+	"rlutil.h"
+	"DADOS.h"
+	"conio.h"
+	"dos.h"
+
+1687760418 c:\users\bruno\desktop\quinientos\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1687760418 c:\users\bruno\desktop\quinientos\dados.h
+	"rlutil.h"
+
